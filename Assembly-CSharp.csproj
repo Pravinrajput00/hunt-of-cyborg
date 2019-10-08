@@ -55,6 +55,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Cybg_Control.cs" />
+     <Compile Include="Assets\FollowCamera.cs" />
      <Compile Include="Assets\TerrainGenerator\Scripts\Abstract\IGenerator.cs" />
      <Compile Include="Assets\TerrainGenerator\Scripts\Abstract\IMap.cs" />
      <Compile Include="Assets\TerrainGenerator\Scripts\Generators\GrassGenerator.cs" />
