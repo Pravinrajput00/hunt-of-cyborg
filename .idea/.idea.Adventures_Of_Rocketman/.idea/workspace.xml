@@ -2,14 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17f9cb29-d972-4fd6-b549-8a9e620bc4da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-0158970a7e9d53d16bd7ad8b654110af" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-0b42e384daa5152b88d3c6ab65bfe546" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-0bf79300dd4d834f3bd56e50753257b5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-1214007e26152095faef47a374725769" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-1e5799371b3bb583397b345a3e3f33a9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-29ce6bc2a7e6fa50bb30c928f5e89d3d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-30f5c3692c655752798a92e4026a87cb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-3a0a05348f0b1a1fa8dafded75c15dc3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-3a3a430f2ec52da03aaea2f82d9d46cf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-438672a3425b59275aa2194a4131b15d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-5136800daac71b6d590f86989a74e202" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-61dc2b324fc4572bdb33dc49211c3a0e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-6731a709893a6d2a4b97ae595cf97776" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-68d1ea52fccdc3e4198aa782761e3ded" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-6d6f64af61fbc9602b7fa05202069a1b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-8d9e528b943e637ecaebf12a8921c300" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-8dfa19b09cffece5da1bb3a5e797fdaa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-90c8f0bf92bc961be92762482ca4d8c9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-928b1470d2755645d97eaef234b88761" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-9c84cfdd9e5e045e4b20d1e3aaaca0da" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-9f84a0f4e0dcba5e5bc51bd4e2568bd9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-b0a6e96940a9f6a79b8d741689983a5b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-b47ac74d5741f9b01a1d4762885eafb2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-b94f5e7d47834b2f2bed305616ac8fff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-b97a30cc0cc3f12948d7ec51ae34044f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-bf1507b08f36b15be92a559ec8c16a75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-c6a9916072d31242aabc90e4f70e3381" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-d4fdc491b8eb123b085c83a969e59b47" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-d6a7cc55cce86cd429a0d60bc96e83e4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-e61531ae4c172cc4ead538f5e894dc8c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-e92f56b18524aa4e19a6ba35cb1e685a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-f5fa6ccbabd217371924b6fdb8741097" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-f78ebded19f077211b7bf05d449c39e4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-fe3d332db8406dff080d68ff757e1387" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Adventures_Of_Rocketman/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Adventures_Of_Rocketman/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Cybg_Control.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cybg_Control.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Cyborg_Animator.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cyborg_Animator.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level01.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level01.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/3412b0-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/3412b0-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CrashedAssetImports.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/72/72fa0499db9f9aacf9d2cacf67f87d75" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/72/72fa0499db9f9aacf9d2cacf67f87d75" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +117,7 @@
       <updated>1570531558334</updated>
       <workItem from="1570531589385" duration="8000" />
       <workItem from="1570539789216" duration="5333000" />
-      <workItem from="1570804784592" duration="5047000" />
+      <workItem from="1570804784592" duration="10006000" />
     </task>
     <servers />
   </component>
