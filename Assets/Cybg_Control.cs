@@ -31,5 +31,17 @@ public class Cybg_Control : MonoBehaviour
         {
             mAnimator.SetBool("walking", false);
         }
+        if(Input.GetKey(KeyCode.Space))
+            mAnimator.SetBool("jumping", true);
+        else
+        {
+            mAnimator.SetBool("jumping", false);
+        }
+
+        if (translation != 0 && Input.GetKey(KeyCode.Space))
+        {
+            mAnimator.SetBool("walking", true);
+            mAnimator.SetBool("jumping", true);
+        }
     }
 }
