@@ -56,6 +56,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\AurynSky\Gems Ultimate Pack\Scripts\AnimationScript.cs" />
      <Compile Include="Assets\Cybg_Control.cs" />
      <Compile Include="Assets\FollowCamera.cs" />
      <Compile Include="Assets\TerrainGenerator\Scripts\Abstract\IGenerator.cs" />
@@ -67,6 +68,7 @@
      <Compile Include="Assets\TerrainGenerator\Scripts\Maps\FalloffMap.cs" />
      <Compile Include="Assets\TerrainGenerator\Scripts\Maps\PerlinMap.cs" />
      <None Include="Assets\Samples\Terrain Tools\0.1.0-preview\Terrain Assets\ThirdPartyNotices.txt" />
+     <None Include="Assets\AurynSky\Gems Ultimate Pack\READ ME.txt" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>/home/tanuj/Unity Projects/Adventures_Of_Rocketman/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
