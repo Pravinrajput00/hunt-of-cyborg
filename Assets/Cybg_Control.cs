@@ -7,21 +7,25 @@ public class Cybg_Control : MonoBehaviour
 {
     private Animator mAnimator;
     public float speed = 2f;
+    public float ini;
     public float rotationSpeed = 75f;
-    public float r_speed = 4f;
+    public float R_speed = 4f;
     public Rigidbody rb;
     // Start is called before the first frame update
     void Start()
     {
         mAnimator = GetComponent<Animator>();
+        ini = 0;
     }
 
     // Update is called once per frame
     void FixedUpdate()
     {
+        if(transform.position.y!=ini)
+           rb.AddForce(0, -200000f, 0);
         if (Input.GetKey(KeyCode.LeftShift))
         {
-            speed = r_speed;
+            speed = R_speed;
             float translation = Input.GetAxis("Vertical") * speed;
             float rotation = Input.GetAxis("Horizontal") * rotationSpeed;
             translation *= Time.deltaTime;
