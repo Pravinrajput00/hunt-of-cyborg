@@ -59,6 +59,8 @@
      <Compile Include="Assets\AurynSky\Gems Ultimate Pack\Scripts\AnimationScript.cs" />
      <Compile Include="Assets\Cybg_Control.cs" />
      <Compile Include="Assets\FollowCamera.cs" />
+     <Compile Include="Assets\Player_Collision.cs" />
+     <Compile Include="Assets\Score.cs" />
      <Compile Include="Assets\TerrainGenerator\Scripts\Abstract\IGenerator.cs" />
      <Compile Include="Assets\TerrainGenerator\Scripts\Abstract\IMap.cs" />
      <Compile Include="Assets\TerrainGenerator\Scripts\Generators\GrassGenerator.cs" />

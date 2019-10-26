@@ -18,6 +18,7 @@
         </e>
         <e p="Cybg_Control.cs" t="Include" />
         <e p="FollowCamera.cs" t="Include" />
+        <e p="Player_Collision.cs" t="Include" />
         <e p="Samples" t="Include">
           <e p="Terrain Tools" t="Include">
             <e p="0.1.0-preview" t="Include">
@@ -27,6 +28,7 @@
             </e>
           </e>
         </e>
+        <e p="Score.cs" t="Include" />
         <e p="TerrainGenerator" t="Include">
           <e p="Scripts" t="Include">
             <e p="Abstract" t="Include">
