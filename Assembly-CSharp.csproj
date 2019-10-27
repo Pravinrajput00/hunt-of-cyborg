@@ -2,9 +2,8 @@
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <LangVersion>latest</LangVersion>
-    <_TargetFrameworkDirectories>non_empty_path_generated_by_unity.rider.package</_TargetFrameworkDirectories>
-    <_FullFrameworkReferenceAssemblyPaths>non_empty_path_generated_by_unity.rider.package</_FullFrameworkReferenceAssemblyPaths>
-    <DisableHandlePackageFileConflicts>true</DisableHandlePackageFileConflicts>
+    <CscToolPath>/home/tanuj/Unity/Hub/Editor/2019.2.3f1/Editor/Data/Tools/RoslynScripts</CscToolPath>
+    <CscToolExe>unity_csc.sh</CscToolExe>
   </PropertyGroup>
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -69,6 +68,7 @@
      <Compile Include="Assets\TerrainGenerator\Scripts\Generators\TreeGenerator.cs" />
      <Compile Include="Assets\TerrainGenerator\Scripts\Maps\FalloffMap.cs" />
      <Compile Include="Assets\TerrainGenerator\Scripts\Maps\PerlinMap.cs" />
+     <Compile Include="Assets\timer.cs" />
      <None Include="Assets\Samples\Terrain Tools\0.1.0-preview\Terrain Assets\ThirdPartyNotices.txt" />
      <None Include="Assets\AurynSky\Gems Ultimate Pack\READ ME.txt" />
  <Reference Include="Unity.Timeline.Editor">
