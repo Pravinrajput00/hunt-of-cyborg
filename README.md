@@ -3,7 +3,7 @@
 This is a 3D Game made in the Unity Engine for Windows platform in which a cyborg goes on a treasure hunt under a time
 constraint.
 
-#Screenshots
+# Screenshots
 
 ![Screenshot from 2019-11-20 19-43-38 (1)](https://user-images.githubusercontent.com/32940477/89705109-0caa1f00-d978-11ea-8794-44d5084265bf.png)
 ![Screenshot from 2019-11-20 19-42-32 (1)](https://user-images.githubusercontent.com/32940477/89705114-13d12d00-d978-11ea-8a02-59fa5ad817e3.png)
