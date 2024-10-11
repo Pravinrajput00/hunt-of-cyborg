@@ -1,4 +1,4 @@
-# Hunt_of_Cyborg
+# Hunt-of-Cyborg
 
 This is a 3D Game made in the Unity Engine for Windows platform in which a cyborg goes on a treasure hunt under a time
 constraint.
